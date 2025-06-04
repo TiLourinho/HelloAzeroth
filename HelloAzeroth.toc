@@ -2,7 +2,7 @@
 ## Title: Hello, Azeroth!
 ## Title-ptBR: Olá, Azeroth!
 ## Title-esES: Hola, Azeroth!
-## Version: 1.0
+## Version: 1.1
 ## Author: Andryr
 ## Notes: The best "Hello, Azeroth!" addon!
 

@@ -8,7 +8,7 @@ Epic salutes the player.
 | ---------- | ------------ |
 | Title:     | HelloAzeroth |
 | Interface: | 11200        |
-| Version:   | 1.0          |
+| Version:   | 1.1          |
 |            |              |
 
 ## Current Features
@@ -18,5 +18,9 @@ Epic salutes the player.
 
 ## Changelog
 
+- 1.1:
+  - Add new epic titles;
+  - Add location context phrases;
+  - Add terrifying new bosses audios.
 - 1.0:
   - Public release version.
